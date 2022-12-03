@@ -1,2 +1,2 @@
 # FRANCALUZ
- Primeiro Projeto Integrador - Desenvolvimento de Software Multiplataforma - FATEC.
+ Primeiro Projeto Integrador - Desenvolvimento de Software Multiplataforma - FATEC - Alunos: Bruna, José, Lauany e Mônica.
