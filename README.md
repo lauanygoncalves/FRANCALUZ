@@ -1,2 +1,2 @@
 # FRANCALUZ
- Primeiro Projeto Integrador - 1º DSM - FATEC
+ Primeiro Projeto Integrador - Desenvolvimento de Software Multiplataforma - FATEC.
